@@ -1,0 +1,10 @@
+# Dependencies and build output
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Local source images and portfolio media
+ImagenesMe/
+ImagenesProyectos/
+public/assets/me/
+public/assets/projects/
